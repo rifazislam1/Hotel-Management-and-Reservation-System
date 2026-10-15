@@ -62,7 +62,7 @@ python --version
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Hotel-Management-System.git
+   git clone https://github.com/rifazislam1/Hotel-Management-System.git
    ```
 
 2. Navigate to the project directory:
